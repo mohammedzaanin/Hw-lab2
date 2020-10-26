@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: url("2.jpg") center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+header {
+    font-family: fantasy;
+    text-align: center;
+    padding: 20px;
+    
+}
+nav {
+    padding: 10px;
+    font-family: cursive;
+}
+ul {
+    list-style: none;
+}
+.nav {
+    display: inline;
+    padding: 25px;
+}
+.red {
+    text-decoration-line: underline;
+    color: rgb(226, 13, 31);
+    font-size: x-large;
+}
+section {
+    height: 420px;
+    text-align: center;
+}
+section .form1 {
+    float: left;
+    width: 70%;
+    height: 420px;
+    text-align: left;
+}
+section .form2 {
+    float: left;
+    width: 30%;
+    height: 420px;
+}
+footer {
+    font-family: fantasy;
+    text-align: center;
+    padding: 20px;
+}
+form #lcds {
+    width: 70%;
+    height: 300px;
+    background-color: lightseagreen;
+}
+form #submit {
+    background-color: coral;
+    width: 10%;
+    margin-left: 50px;
+  
+}
+label {
+    font-size: x-large;
+    padding: 10px;
+    font-family: cursive;
+}
+input {
+    height: 30px;
+    margin-left: 20px;
+    width: 20%;
+    font-family: cursive;
+}
+#submit {
+    font-family: cursive;
+}
+.ser{
+    font-family: cursive;
+}
+h2{
+    margin-left: 10px;
+}
+.cds{
+    font-size: xx-large;
+}
+h3 {
+    margin-left: 5px;
+}
+.sch1{
+    margin-left: 5px;
+}
+.parg{
+    margin-left: 10px;
+}
+.sp1{
+    float: left;
+    width: 50%;
+    height: 420px;
+    text-align: left;
+}
+.sp2 {
+    float: left;
+    width: 50%;
+    height: 420px;
+}
+table{
+    margin-left: 40px;
+    width: 90%;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: cursive;
+}
+td{
+    border: 1px solid black;
+}
+.blue{
+    color: rgb(94, 195, 202);
+}
+.Pink{
+    color: rgb(204, 82, 184);
+}
+
+
+
